@@ -152,10 +152,10 @@ const Header = () => {
               <div className="flex items-center justify-end pr-16 lg:pr-0">
            
                 <Link
-                  href="/signup"
+                  href="#show_sp_popup=9393a0b7-856e-44ee-8169-f24bfe4d5e7f"
                   className="ease-in-up hidden rounded-md bg-primary py-3 px-8 text-base font-bold text-white transition duration-300 hover:bg-opacity-90 hover:shadow-signUp md:block md:px-9 lg:px-6 xl:px-9"
                 >
-                  Sign Up
+                  Get Beta Access
                 </Link>
                 <div>
                   <ThemeToggler />
