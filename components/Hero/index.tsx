@@ -21,8 +21,7 @@ const Hero = () => {
                 Are you ready to unlock the full potential of your digital assets? Say hello to VentureOS - the AI-driven solution for building and optimizing online ventures.
                 </p>
                 
-                <script src="//web.webformscr.com/apps/fc3/build/loader.js" async sp-form-id="f80993f996a0f01ab9a24f89ed3a296e5effb18ca6e77aaae7b979cf48840e1e"></script>
-
+              
               </div>
               <img src="/images/screenshots/list.png" ></img>
             </div>
