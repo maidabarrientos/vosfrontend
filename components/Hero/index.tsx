@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Script from 'next/script';
 
 const Hero = () => {
   return (
@@ -15,14 +16,16 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                Your 🔥 AI Super Venture Builder
+                Your 🔥 AI Super Venture Builder for Domains                
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
                 Are you ready to unlock the full potential of your digital assets? Say hello to VentureOS - the AI-driven solution for building and optimizing online ventures.
                 </p>
+                <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
+                  VentureOS, powered by VNOC, is the complete solution for managing and growing URL-based assets. Whether you're a visionary entrepreneur, a startup enthusiast, or an innovative thinker, VentureOS is your one-stop platform for taking your ideas and ventures to the next level.
+                </p>
                 
-              
-              </div>
+               </div>
               <img src="/images/screenshots/list.png" ></img>
             </div>
           </div>
