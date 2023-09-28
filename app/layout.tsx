@@ -26,7 +26,6 @@ export default function RootLayout({
           <Footer />
           <ScrollToTop />
         </Providers>
-        <script async src="https://static.wdgtsrc.com/assets/loader.js" data-chats-widget-id="89da8102-f021-4a1c-9871-958fcf62716f"></script>
         <script src="https://cdn.pulse.is/livechat/loader.js" data-live-chat-id="6513e83875799ade0305c32d" async></script>
 
       </body>
