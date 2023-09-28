@@ -26,6 +26,7 @@ const Hero = () => {
                 </p>
                 
                </div>
+            
               <img src="/images/screenshots/list.png" ></img>
             </div>
           </div>
