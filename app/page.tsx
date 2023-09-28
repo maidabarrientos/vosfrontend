@@ -6,6 +6,7 @@ import ScrollUp from "@/components/Common/ScrollUp";
 
 import Features from "@/components/Features";
 import Hero from "@/components/Hero";
+import Stack from "@/components/Stack";
 import Testimonials from "@/components/Testimonials";
 import { Inter } from "@next/font/google";
 
@@ -18,7 +19,7 @@ export default function Home() {
       <Hero />
       <Features />
       
-      <Brands />
+      <Stack />
       <AboutSectionOne />
       <AboutSectionTwo />
       <Testimonials />
